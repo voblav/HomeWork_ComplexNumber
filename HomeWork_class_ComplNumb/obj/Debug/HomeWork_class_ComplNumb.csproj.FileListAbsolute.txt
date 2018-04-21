@@ -1,0 +1,7 @@
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\bin\Debug\HomeWork_class_ComplNumb.exe.config
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\bin\Debug\HomeWork_class_ComplNumb.exe
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\bin\Debug\HomeWork_class_ComplNumb.pdb
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\obj\Debug\HomeWork_class_ComplNumb.csprojResolveAssemblyReference.cache
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\obj\Debug\HomeWork_class_ComplNumb.csproj.CoreCompileInputs.cache
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\obj\Debug\HomeWork_class_ComplNumb.exe
+C:\Users\Папа\source\repos\HomeWork_class_ComplNumb\HomeWork_class_ComplNumb\obj\Debug\HomeWork_class_ComplNumb.pdb
